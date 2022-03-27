@@ -1,11 +1,13 @@
 # python-password-gen
 A simple password generator that I made in python
 
-What does it include? Let me show you:
+What does it include? Let me tell you:
 
--Allows you to generate a password anywhere from 1-16 characters!
--Has a strength checker
--Allows you to save to desktop into a .txt file is the password is strong enough!
+- Allows you to generate a password anywhere from 1-16 characters!
+
+- Has a strength checker
+
+- Allows you to save to desktop into a .txt file is the password is strong enough!
 
 
 How do you compile it into a .exe?
