@@ -99,4 +99,4 @@ else: #doesnt create file
 
 time.sleep(5 * 90) #yes
 
-#time.sleep(5 * 90) was added to make it so that the console doesn't close every time you finish with your passwords.
+#time.sleep(5 * 90) was added to make it so that the console doesn't close every time you finish with your passwords. I'm sure that there was a more efficent way, but whatever.
